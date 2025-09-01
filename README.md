@@ -7,5 +7,6 @@ Matriz SWOT
 Elicitacao de requisitos
 Matriz 5W2H
 Missao, Visao e Valor
+Prototipação das telas
 ### Autor: Gabriel Martinez
 ### Prof: Alessandro Fukuta Fatec Franca/SP
